@@ -19,7 +19,7 @@ img{
 
 .banner {
   height: 400px;
-  background-image: url("/images/amsterdam.jpg");
+  background-image: url("images/amsterdam.jpg");
   display: cover;
   font-weight: bold;
   opacity: 0.9;
